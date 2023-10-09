@@ -45,8 +45,9 @@ def update_color_preview(color_entry, preview_label):
 
 def get_colors_and_filename():
     root = tk.Tk()
-    root.title("Gradient Generator")
+    root.title("Gradi3nt")
     root.geometry("300x210")
+    root.iconbitmap('assets/icon.ico')
 
     color_entries = []
     color_previews = []
