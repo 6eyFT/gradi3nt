@@ -1,4 +1,4 @@
-# Gradient Generator
+# Gradient
 
 A simple gradient generator using Python and Tkinter.
 
