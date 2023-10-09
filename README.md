@@ -14,16 +14,12 @@ A simple gradient generator using Python and Tkinter.
 ## Usage
 
 Run `app.py` to launch the GUI:
-
-    ```
+    
     python src/app.py
-    ```
 
 Or use the command line:
 
-    ```
     python src/app.py #FF0000 #00FF00 #0000FF #FFFFFF gradient.png
-    ```
 
 ## License
 
